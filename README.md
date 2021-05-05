@@ -1,3 +1,7 @@
+This repo was originally cloned from:
+
+https://github.com/LittleBaiBai/git-rebase-flow-kata.git
+
 # git-rebase-flow-kata
 
 ## How to start
@@ -5,7 +9,7 @@
 1. Clone the repository as your upstream repository:
 
 ```
-git clone --mirror https://github.com/LittleBaiBai/git-rebase-flow-kata.git git-rebase-flow-kata-upstream.git
+git clone --mirror https://github.com/crankycoder/git-rebase-flow-kata.git git-rebase-flow-kata-upstream.git
 ```
 
 2. Clone the repository once more as your local repository.
